@@ -1,0 +1,17 @@
+.name_div {
+    width: 200px;
+    height: 200px;
+    border: 2px solid aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    color: aqua;
+    border-radius: 50%;
+}
+
+.user_name {
+    font-size: 30px;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+}
